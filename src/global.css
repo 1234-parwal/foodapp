@@ -1,0 +1,19 @@
+.card--shadow {
+  box-shadow: rgba(149, 157, 165, 0.2) 0 8px 24px;
+}
+
+.card--shadow:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+}
+
+.image-rounder img {
+  border-radius: 1rem;
+}
+
+.card--shadow-light {
+  box-shadow: rgba(149, 157, 165, 0.2) 0 8px 24px;
+}
+
+.card--shadow-dark {
+  box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+}
